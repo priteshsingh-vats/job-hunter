@@ -1,0 +1,591 @@
+.he{
+font-weight: bolder;
+font-size: 27px;
+text-decoration: none;
+padding-left: 150px;
+padding-bottom: 10px;
+padding-top: 25px;
+color:black;
+}
+.cc
+{
+    color:white;
+    background: blue;
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 2px;
+   margin-left: 700px;
+    
+}
+nav
+{
+  color:blue;
+    font-size: 12px;
+      
+}
+.con
+{
+  
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://s3.amazonaws.com/wi-cdn/assets/img/landing/landing-bg-collage-desktop.big.jpg") ;height: 740px; background-position: center; background-repeat: no-repeat;background-size: cover;
+    margin-top:-15px;
+    background-attachment:fixed;
+  
+}
+.ertv
+{
+     font-size: 40px;
+}
+.edv
+{
+    color:#484848;
+    font-size: 20px;
+    
+}
+.reer
+{
+    margin-top: 90px;
+}
+#pa
+{
+    font-size: 50px;
+    text-align:center;
+   padding-top: 260px;
+    color:white;
+    font-weight: normal;
+    padding-left: 60px;
+    
+   
+}
+span
+{
+    color:antiquewhite;
+}
+.sd
+{
+    font-size: 40px;
+    margin-left: 570px;
+}
+.dfq
+{
+ font-size: 30px;
+ border-radius: 40px;
+color:white;
+ text-align: center;
+}
+.er
+{
+    font-size: 40px;
+    color:#484848;
+    margin-left: 75px;
+}
+.rt
+{
+  color:#484848;  
+    margin-left: 70px;
+    font-size: 25px;
+}
+.sdd
+{
+    width:25%;
+    font-weight: bolder;
+    background: gray;
+}
+.cont
+{
+    background: white;
+    height:50vh;
+}
+.g
+{ text-align: center;
+    color:blue;
+}
+.gg
+{
+    color:blue;
+}
+.os
+{
+    color:red;
+}
+.o
+{
+    color:yellow;
+}
+.l
+{
+    color:green;
+}
+.e
+{
+    color:red;
+}
+.ui
+{
+    color:#484848;
+    text-align: center;
+    font-family: sans-serif;
+    font-size:25px;
+    padding-top: 20px;
+}
+button
+{
+    color:#fff;
+    background: #5cb85c;
+    border:1px solid #5cb85c ;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-weight: bolder;
+}
+.dd
+{
+    font-style: italic;
+    font-size:20px;
+    text-align: center;
+}
+.as
+{
+    color:#5cb85c;
+    text-decoration: underline;
+  margin-bottom: 40px;
+}
+.contp
+{
+    background:#fff;
+    width:700px;
+    float:left;
+    height:200px;
+    border:1px solid gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+.contq
+{
+    background: #fff;
+    width:700px;
+    float:right;
+    height:200px;
+    border:1px solid gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     border-radius: 20px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+
+.super
+{
+    font-size:40px;
+    text-align: center;
+    color:#484848;
+   margin-top: -149px;
+    font-weight: bold;
+}
+.int
+{
+  text-align: right;
+    color:black;
+    font-weight: 700px;
+    font-size: 18px;
+}
+.dff
+{
+    height:70vh;
+}
+#hw
+{
+  margin-top: 40px;
+    margin-left: 220px;
+}
+.ree
+{
+    text-align: right;
+}
+.foot p
+{
+    font-size:18px;
+    font-family: sans-serif;
+    text-align: center;
+    color:dimgrey;
+}
+.foot h1
+{
+    color:darkgrey;
+    text-align: center;
+    font-family: fantasy;
+    text-transform: full-width;
+    text-decoration: underline;
+}
+.qaz
+{
+    height:500px;
+    width:500px;
+    margin-left: 900px;
+   
+    margin-top: -550px;
+}
+.ert
+{
+    font-size: 40px;
+}
+.ree
+{
+    margin-right: 500px;
+    margin-top: 50px;
+}
+.lp
+{
+    color:#484848;
+    font-size: 20px;
+}
+.sdl
+{
+    font-size: 45px;
+    text-align: center;
+}
+ .contp aside img
+    {
+        background-attachment: fixed;
+    }
+.caa
+{
+    height:34vh;
+}
+.cbb
+{
+    height:120px;
+    width:500px;
+    float: left;
+    margin-left: 250px;
+    border-radius: 20px;
+    border: 1px solid #a1a1a1;
+  margin-bottom: 5px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     border-radius: 20px;
+}
+.ccd
+{
+    height:120px;
+    width:500px;
+    float: right;
+    margin-right: 250px;
+    border-radius: 20px;
+     border: 1px solid #a1a1a1;
+    margin-bottom: 5px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     border-radius: 20px;
+}
+.wsx
+{
+    text-align: center;
+    font-size: 20px;
+    color:#3f81c7;
+    font-weight: 700;
+    font-weight: 700;
+}
+.wed
+{
+    color:#a1a1a1;
+    text-align: center;
+}
+.ertt
+{
+    color:black;
+    text-align: center;
+}
+.plm
+{
+    height:50vh;
+    background:white;
+    
+}
+.ikm
+{
+    height:180px;
+    width:400px;
+    float:left;
+    margin-left: 300px;
+    margin-bottom: 10px;
+    background: white;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 3px;
+}
+.ujn
+{
+    height:180px;
+    width:400px;
+    background: white;
+    float:right;
+    margin-right:300px;
+    margin-bottom: 10px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(1, 0, 0, 0.19);
+    border-radius: 3px;
+}
+#qsc
+{
+    color:#3f81c7;
+    margin-left: 180px;
+    margin-top: -160px;
+    font-size: 20px;
+}
+#prc
+{
+    margin-left: 180px;
+    color:#a1a1a1;
+   margin-top: -10px;
+}
+.job
+{
+    width:100%;
+    height:600px;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("job.jpg") ;height: 560px; background-position: center; background-repeat: no-repeat;background-size: cover; 
+     border-radius: 80px;
+       background-attachment:fixed;
+   
+}
+footer
+{
+    background: #3b7687;
+    color:#f4f4f4;
+    margin:0,auto;
+    text-align: center;
+    margin-top: -30px;
+ 
+}
+footer a
+{
+    color:snow;
+}
+.job p
+{
+    text-align: center;
+    font-family: cursive;
+    color:white;
+    font-size:45px;
+    padding-top: 30px;
+}
+.foot
+{
+    background: #c5d6db;
+    height:23vh;
+    margin-top: -70px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     border-radius: 20px;
+   
+}
+.in
+{
+   color:darkorange;
+}
+.india
+{
+    color:green;
+}
+@media(max-width: 667px)
+{
+    .he{
+font-weight: bolder;
+font-size: 27px;
+text-decoration: none;
+margin-left:-127px;
+color:black;
+    } 
+    .sd
+{
+    font-size:40px;
+   margin-left: 0px;
+    padding-left: 70px;
+    
+}
+    .contq
+{
+    background: #fff;
+    width:700px;
+    float:left;
+    height:200px;
+    border:1px solid gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     border-radius: 20px;
+    margin-bottom: 10px;
+    margin-left: 42px;
+}
+    .con
+{
+  
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://s3.amazonaws.com/wi-cdn/assets/img/landing/landing-bg-collage-desktop.big.jpg") ;height: 740px; width:1350px; background-position: center; background-repeat: no-repeat;background-size: cover;
+    margin-top:-15px;
+    background-attachment:fixed;
+}
+    nav
+{
+  color:blue;
+    font-size: 22px;
+    margin-left: 11px
+      
+}
+ .cc
+{
+    color:white;
+    background: blue;
+    text-decoration: none;
+    font-size: 22px;
+    float: left;
+    margin-left: 10px; 
+}
+    .dff aside
+{
+    float:left;
+}
+    .qaz p
+{
+   float:right; 
+   
+}
+    .ree
+{
+ margin-top:600px;
+}
+.cbb
+{
+    height:120px;
+    width:500px;
+    border-radius: 20px;
+    border: 1px solid #a1a1a1;
+      margin-bottom: 5px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     border-radius: 20px;
+    margin-left: 15px;
+   margin-bottom: 10px;
+}
+ .ccd
+{
+    margin-right: -140px;
+ margin-top: 10px;
+}   
+ .sdl
+{
+    font-size: 45px;
+    padding-left: 40px;
+}   
+.ikm
+{
+    height:180px;
+    width:400px;
+    float:left;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    background: white;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 3px;
+}    
+ .ujn
+{
+    height:180px;
+    width:400px;
+    background: white;
+    float:left;;
+    margin-right:300px;
+    margin-bottom: 10px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(1, 0, 0, 0.19);
+    border-radius: 3px;
+    margin-left: 50px;
+}   
+ .job
+{
+    width:100%;
+    height:600px;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("job.jpg") ;height: 560px; width:1300px; background-position: center; background-repeat: no-repeat;background-size: cover; 
+     border-radius: 80px;
+       background-attachment:fixed;
+    margin-top: 430px;
+    margin-left: 40px;
+   
+}
+.job p
+{
+    text-align: center;
+    font-family: cursive;
+    color:white;
+    font-size:45px;
+    padding-top: 30px;
+}   
+.ertv
+    {
+        float:right;
+        margin-top: 50px;
+        font-size: 40px;
+    }
+
+   .edv
+    {
+        font-size: 30px;
+        margin-top: 0px;
+    }  
+    .foot p
+{
+    font-size:24px;
+    font-family: sans-serif;
+    text-align: center;
+    color:dimgrey;
+}
+.foot h1
+{
+    color:darkgrey;
+    text-align: center;
+    font-family: fantasy;
+    text-transform: full-width;
+    text-decoration: underline;
+}
+    footer
+{
+    background: #3b7687;
+    color:#f4f4f4;
+    margin:0,auto;
+    text-align: center;
+    margin-top: -30px;
+    font-size: 30px;
+    width:1300px;
+    margin-left:50px; 
+}
+footer a
+{
+    color:black;
+}
+    .foot
+{
+    background: #c5d6db;
+    height:29vh;
+    margin-top:0px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     border-radius: 20px;
+    width:1300px;
+    margin-left: 50px;
+}
+    .dd
+{
+    font-style: italic;
+    font-size:20px;
+    text-align: center;
+}
+    .ui
+{
+    color:#484848;
+    text-align: center;
+    font-family: sans-serif;
+    font-size:25px;
+    padding-top: 20px;
+}
+    .sdd
+{
+    width:25%;
+    font-weight: lighter;
+    background: gray;
+}
+    .contp aside img
+    {
+        background-attachment: fixed;
+    }
+}
